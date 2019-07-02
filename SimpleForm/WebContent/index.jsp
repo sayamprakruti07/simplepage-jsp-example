@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td>This Page is: </td>
-<td><input type="radio" value="">Too awsome</td>
+<td><input type="radio" value="">Too awesome</td>
 <td><input type="radio" value="">Satisfactory</td>
 </tr>
 
